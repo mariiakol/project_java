@@ -1,4 +1,4 @@
-package com.maria;
+package com.company;
 
 public class Car {
         private int IDcar;
@@ -78,7 +78,7 @@ public class Car {
 
     @Override
     public String toString() {
-        return "Car :" +
+        return "Car: " +
                 "IDcar=" + IDcar +
                 ", mark='" + mark + '\'' +
                 ", model='" + model + '\'' +
