@@ -6,7 +6,6 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) {
-
         Car car1 = new Car(123, "BMW", "X5", 2020, "black", 15000.78, 2345 );
         Car car2 = new Car(124, "Mercedes", "E124", 1995, "green", 10000.9, 4659 );
         Car car3 = new Car(125, "Fiat", "Doblo", 2020, "red", 11000.78, 5739 );
