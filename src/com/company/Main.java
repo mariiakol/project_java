@@ -26,5 +26,8 @@ public class Main {
 
         Queries result = new Queries();
         List<Car> resultList1 = result.getCarsByMark(list);
+
+        System.out.println("Hello");
     }
 }
+
