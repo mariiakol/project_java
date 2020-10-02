@@ -24,5 +24,8 @@ public class Main {
         list.add(car5);
         list.add(car6);
         list.add(car7);
+
+        Queries result = new Queries();
+        List<Car> resultList1 = result.getCarsByMark(list);
     }
 }
